@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/axyro-dev/axyro-dev/main/ax-logo.png" width="120">
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/axyro-dev/axyro-dev/main/ax-logo.png" width="180">
