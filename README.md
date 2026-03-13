@@ -9,7 +9,7 @@ Systems • Infrastructure • Compute
 </p>
 
 <p align="center">
-EU / Hungary
+EU
 </p>
 
 <p align="center">
