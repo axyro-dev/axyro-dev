@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/axyro-dev/axyro-dev/main/ax-logo.png" width="180" alt="AXYRO logo">
+  <img src=" https://github.com/axyro-dev/axyro-dev/blob/main/AXYRO-whiteprofile.png" width="180" alt="AXYRO logo">
+ 
 </p>
 
 <h1 align="center">AXYRO</h1>
