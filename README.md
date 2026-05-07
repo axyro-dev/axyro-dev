@@ -1,34 +1,38 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/axyro-dev/axyro-dev/main/ax-logo.png" width="180">
+  <img src="https://raw.githubusercontent.com/axyro-dev/axyro-dev/main/ax-logo.png" width="180" alt="AXYRO logo">
 </p>
 
 <h1 align="center">AXYRO</h1>
 
 <p align="center">
-Systems • Infrastructure • Compute
+  Visual environments · Interface studies · Quiet systems
 </p>
 
 <p align="center">
-EU
+  EU
 </p>
 
 <p align="center">
-<a href="https://axyro.io">axyro.io</a>
+  <a href="https://axyro.io">axyro.io</a>
 </p>
 
 ---
-<p
+
 ## About
 
-A visual system for calmer digital environments.
-</p>
+AXYRO is a visual system for calmer digital environments.
+
+An evolving archive of wallpapers, interface studies, notes, and small system experiments.
+
 ---
 
 ## Areas
 
-AXYRO is an evolving archive of wallpapers, interface studies, notes, and system experiments.
----
-
+- Wallpapers
+- Interface studies
+- Digital atmospheres
+- System notes
+- Future tools
 
 ---
 
