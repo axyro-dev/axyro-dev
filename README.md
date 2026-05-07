@@ -17,11 +17,11 @@ EU
 </p>
 
 ---
-
+<p
 ## About
 
 A visual system for calmer digital environments.
-
+</p>
 ---
 
 ## Areas
