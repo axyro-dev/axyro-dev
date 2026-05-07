@@ -20,24 +20,15 @@ EU
 
 ## About
 
-AXYRO focuses on systems, infrastructure and compute environments.
-
-Building tools, hardware integrations and technical infrastructure.
+A visual system for calmer digital environments.
 
 ---
 
 ## Areas
 
-• Systems architecture  
-• Infrastructure  
-• Hardware integration  
-• Compute environments  
-
+AXYRO is an evolving archive of wallpapers, interface studies, notes, and system experiments.
 ---
 
-## Stack
-
-Linux • Docker • Infrastructure • Hardware • Systems
 
 ---
 
